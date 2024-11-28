@@ -43,6 +43,7 @@ O projeto inclui três telas principais construídas usando React Native:
 
 A `HomeScreen` exibe uma lista de tarefas e permite que o usuário filtre as tarefas pelo seu status (todas, pendentes, completas). Também fornece botões para navegar para a `NovaTarefaScreen` para adicionar uma nova tarefa e para a `EditarTarefaScreen` para editar uma tarefa existente.
 
+<img src="https://github.com/user-attachments/assets/496d808e-8f12-4636-b55c-d15d1e6b0b0f" alt="simulator screenshot" width="400" />
 ![simulator_screenshot_6176F005-CB05-4AEB-B7A5-3022736FF9CE](https://github.com/user-attachments/assets/496d808e-8f12-4636-b55c-d15d1e6b0b0f)
 
 ### NovaTarefaScreen
